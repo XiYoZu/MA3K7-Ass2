@@ -1,3 +1,6 @@
 import numpy as np
 
-print("Hello world")
+n = 5
+
+for i in range(int(n)):
+    
